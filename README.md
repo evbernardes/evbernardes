@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" height="20" alt="Pronouns: He/Him"/>
 </p>
 
-I am Evandro Bernardes, currently wrapping up my PhD thesis at the [ISM-Biorobotics](https://ism.univ-amu.fr/en/biorob) team in the [Aix-Marseille University](https://www.univ-amu.fr/). I am a Python enjoyer, foreign languages enthusiast, Open Source supporter and applied mathematics aficionado.
+I am Evandro Bernardes, recent PhD graduate from the [Aix-Marseille University](https://www.univ-amu.fr/). I am a Python enjoyer, foreign languages enthusiast, Open Source supporter and applied mathematics aficionado.
 
 ### 📫 How to reach me
-Send me a message via [LinkedIn](https://www.linkedin.com/in/evandro-bernardes/). You can find all about my research papers on [Research Gate](https://www.researchgate.net/profile/Evandro-Bernardes-2).
+Send me a message via [LinkedIn](https://www.linkedin.com/in/evandro-bernardes/), or read about my research on [Research Gate](https://www.researchgate.net/profile/Evandro-Bernardes-2).
+
+All my links can be found at [linktr.ee/evandro.bernardes](https://linktr.ee/evandro.bernardes).
